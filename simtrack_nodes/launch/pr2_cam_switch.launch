@@ -2,7 +2,7 @@
   <rosparam command="load" file="$(find simtrack_nodes)/config/pr2_camera_topics.yaml"/>
   <rosparam command="load" file="$(find simtrack_nodes)/config/parameters.yaml"/>
   <param name="simtrack/use_compressed_streams" value="true" />
-  <param name="simtrack/tracker/device_id" value="1" />
+  <param name="simtrack/tracker/device_id" value="0" />
   <param name="simtrack/detector/device_id" value="0" />
 
   <rosparam command="load" file="$(find simtrack_nodes)/config/demo_objects.yaml"/>

@@ -1,0 +1,14 @@
+camera/0/color_only_mode: true
+camera/0/rgb: /cameras/left_hand_camera/image
+camera/0/rgb_info: /cameras/left_hand_camera/camera_info
+camera/0/robot_frame: left_hand_camera_axis
+
+camera/1/color_only_mode: true
+camera/1/rgb: /cameras/left_hand_camera/image
+camera/1/rgb_info: /cameras/left_hand_camera/camera_info
+camera/1/robot_frame: left_hand_camera_axis
+
+camera/2/color_only_mode: true
+camera/2/rgb: /cameras/right_hand_camera/image
+camera/2/rgb_info: /cameras/right_hand_camera/camera_info
+camera/2/robot_frame: right_hand_camera_axis
